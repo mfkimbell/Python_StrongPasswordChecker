@@ -2,5 +2,6 @@
 checks password strength
 
 Example output:
-![](../../Screen%20Shot%202022-10-11%20at%207.47.15%20PM.png)
-![](../../Screen%20Shot%202022-10-11%20at%207.47.05%20PM.png)
+
+<img width="652" alt="Screen Shot 2022-10-11 at 7 47 05 PM" src="https://user-images.githubusercontent.com/107063397/195224176-e7f433db-804c-453a-96e5-ef160df9af5c.png">
+Added image
